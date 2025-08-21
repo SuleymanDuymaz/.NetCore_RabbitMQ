@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj": {}
+    "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj": {
+    "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj",
+        "projectUniqueName": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj",
         "projectName": "RabbitMQ.TopicExchange_Publisher",
-        "projectPath": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj",
+        "projectPath": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj",
         "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\obj\\",
+        "outputPath": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

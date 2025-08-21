@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\",
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5AC5B22-56CE-46F6-8D49-9AAB4FDF4B5A}|RabbitMQ.DirectExchange.Publisher\\RabbitMQ.DirectExchange_Publisher.csproj|c:\\users\\monster\\source\\repos\\rabbitmq\\publisher\\rabbitmq_publisher\\rabbitmq.directexchange.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5AC5B22-56CE-46F6-8D49-9AAB4FDF4B5A}|RabbitMQ.DirectExchange.Publisher\\RabbitMQ.DirectExchange_Publisher.csproj|solutionrelative:rabbitmq.directexchange.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{152E93DB-4CFD-4D02-8915-ABBE3C4776AE}|RabbitMQ.FanoutExchange_Publisher\\RabbitMQ.FanoutExchange_Publisher.csproj|c:\\users\\monster\\source\\repos\\rabbitmq\\publisher\\rabbitmq_publisher\\rabbitmq.fanoutexchange_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{152E93DB-4CFD-4D02-8915-ABBE3C4776AE}|RabbitMQ.FanoutExchange_Publisher\\RabbitMQ.FanoutExchange_Publisher.csproj|solutionrelative:rabbitmq.fanoutexchange_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CC90120-B834-4F23-80CC-211A71FDBCF4}|RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj|c:\\users\\monster\\source\\repos\\rabbitmq\\publisher\\rabbitmq_publisher\\rabbitmq.topicexchange_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CC90120-B834-4F23-80CC-211A71FDBCF4}|RabbitMQ.TopicExchange_Publisher\\RabbitMQ.TopicExchange_Publisher.csproj|solutionrelative:rabbitmq.topicexchange_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0240950-0ABD-41FC-A285-54F2A474E3A1}|RabbitMQ_Publisher\\RabbitMQ_Publisher.csproj|c:\\users\\monster\\source\\repos\\rabbitmq\\publisher\\rabbitmq_publisher\\rabbitmq_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0240950-0ABD-41FC-A285-54F2A474E3A1}|RabbitMQ_Publisher\\RabbitMQ_Publisher.csproj|solutionrelative:rabbitmq_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AD5CACB-3993-4322-AE93-17FD73F4FF71}|RabbitMQ.HeaderExchange_Publisher\\RabbitMQ.HeaderExchange_Publisher.csproj|c:\\users\\monster\\source\\repos\\rabbitmq\\.netcore_rabbitmq\\publisher\\rabbitmq_publisher\\rabbitmq.headerexchange_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD5CACB-3993-4322-AE93-17FD73F4FF71}|RabbitMQ.HeaderExchange_Publisher\\RabbitMQ.HeaderExchange_Publisher.csproj|solutionrelative:rabbitmq.headerexchange_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,52 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.DirectExchange.Publisher\\Program.cs",
-              "RelativeDocumentMoniker": "RabbitMQ.DirectExchange.Publisher\\Program.cs",
-              "ToolTip": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.DirectExchange.Publisher\\Program.cs*",
-              "RelativeToolTip": "RabbitMQ.DirectExchange.Publisher\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.HeaderExchange_Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.HeaderExchange_Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\.NetCore_RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.HeaderExchange_Publisher\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.HeaderExchange_Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:23:11.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.FanoutExchange_Publisher\\Program.cs",
-              "RelativeDocumentMoniker": "RabbitMQ.FanoutExchange_Publisher\\Program.cs",
-              "ToolTip": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.FanoutExchange_Publisher\\Program.cs*",
-              "RelativeToolTip": "RabbitMQ.FanoutExchange_Publisher\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:23:01.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\Program.cs",
-              "RelativeDocumentMoniker": "RabbitMQ.TopicExchange_Publisher\\Program.cs",
-              "ToolTip": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ.TopicExchange_Publisher\\Program.cs*",
-              "RelativeToolTip": "RabbitMQ.TopicExchange_Publisher\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:22:53.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ_Publisher\\Program.cs",
-              "RelativeDocumentMoniker": "RabbitMQ_Publisher\\Program.cs",
-              "ToolTip": "C:\\Users\\Monster\\source\\repos\\RabbitMQ\\Publisher\\RabbitMQ_Publisher\\RabbitMQ_Publisher\\Program.cs",
-              "RelativeToolTip": "RabbitMQ_Publisher\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:19:43.093Z",
+              "WhenOpened": "2025-08-18T09:22:45.874Z",
               "EditorCaption": ""
             }
           ]
